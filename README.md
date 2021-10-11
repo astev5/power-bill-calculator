@@ -16,9 +16,9 @@ Determine the amount of usage for the month and calculate a sub-total (before ta
 - Use a second method to determine the tax.
 - Use a third method to determine the subtotal.
 - Format all output as follows:
--- Usage to 1 decimal place, KhWs.
--- Rate to 4 decimal places, monetary.
--- Subtotal to 2 decimal places, monetary.
--- Taxes to 2 decimal places, monetary.
--- Total to 2 decimal places, monetary.
+  - Usage to 1 decimal place, KhWs.
+  - Rate to 4 decimal places, monetary.
+  - Subtotal to 2 decimal places, monetary.
+  - Taxes to 2 decimal places, monetary.
+  - Total to 2 decimal places, monetary.
 - Implement a loop to run the program again if the user wishes to.
